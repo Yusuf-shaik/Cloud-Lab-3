@@ -1,0 +1,31 @@
+{
+  "connect.name": "test",
+  "fields": [
+    {
+      "default": null,
+      "name": "name",
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    {
+      "default": null,
+      "name": "email",
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    {
+      "default": null,
+      "name": "gender",
+      "type": [
+        "null",
+        "string"
+      ]
+    }
+  ],
+  "name": "UserValues",
+  "type": "record"
+}
